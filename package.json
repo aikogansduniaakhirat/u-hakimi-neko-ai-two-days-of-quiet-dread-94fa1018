@@ -1,0 +1,11 @@
+{
+  "name": "u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Writes one line to /output/entry.txt: a code review comment that approves a pull request while carrying quiet existential dread.",
+  "license": "MIT",
+  "scripts": {
+    "entry": "MAKEFUN_OUTPUT_DIR=out node main.ts"
+  }
+}
